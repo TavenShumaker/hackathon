@@ -1,0 +1,11 @@
+{
+  "name": "Codesmith Hackathon",
+  "version": "1.0",
+  "description": "Build an Extension!",
+  "background": {
+    "scripts": ["src/main.js"],
+    "persistent": false
+  },
+  "permissions": ["storage"],
+  "manifest_version": 2
+}
